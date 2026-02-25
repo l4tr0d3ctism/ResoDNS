@@ -1,11 +1,10 @@
-
 # ResoDNS
 
 **Mass DNS Resolution & Subdomain Bruteforce with Wildcard Filtering**
 
 Built on **massdns** — optimized for large-scale enumeration.
 
-Linux / WSL / Docker
+Linux / WSL
 
 ---
 
@@ -152,11 +151,6 @@ massdns has no official Windows build.
 
 Recommended: use WSL.
 
-Alternative:
-
-* Cygwin
-* Docker
-
 ---
 
 ## License
@@ -164,4 +158,3 @@ Alternative:
 MIT License
 
 Use only on authorized targets.
-
