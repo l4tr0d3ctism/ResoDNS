@@ -3,7 +3,7 @@ package ctx
 import (
 	"os"
 
-	"resodns/internal/app"
+	"github.com/l4tr0d3ctism/ResoDNS/internal/app"
 )
 
 type Ctx struct {

@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"resodns/internal/app/ctx"
+	"github.com/l4tr0d3ctism/ResoDNS/internal/app/ctx"
 	"github.com/spf13/cobra"
 )
 

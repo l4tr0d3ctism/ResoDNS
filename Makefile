@@ -1,4 +1,4 @@
-PKG := resodns
+PKG := github.com/l4tr0d3ctism/ResoDNS
 PKG_LIST := $(shell go list ./... | grep -v /vendor/)
 BRANCH := $(shell git rev-parse --abbrev-ref HEAD | tr -d '\040\011\012\015\n')
 REVISION := $(shell git rev-parse --short HEAD)

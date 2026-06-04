@@ -3,7 +3,7 @@ package resolve
 import (
 	"fmt"
 
-	"resodns/internal/app/ctx"
+	"github.com/l4tr0d3ctism/ResoDNS/internal/app/ctx"
 )
 
 type Executor interface {

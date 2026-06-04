@@ -5,10 +5,10 @@ import (
 	"io"
 	"os"
 
-	"resodns/internal/app/ctx"
-	"resodns/internal/pkg/console"
-	"resodns/pkg/fileoperation"
-	"resodns/pkg/shellexecutor"
+	"github.com/l4tr0d3ctism/ResoDNS/internal/app/ctx"
+	"github.com/l4tr0d3ctism/ResoDNS/internal/pkg/console"
+	"github.com/l4tr0d3ctism/ResoDNS/pkg/fileoperation"
+	"github.com/l4tr0d3ctism/ResoDNS/pkg/shellexecutor"
 )
 
 type Service struct {

@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"os"
 
-	"resodns/internal/app/cmd"
-	"resodns/internal/app/ctx"
-	"resodns/internal/app/errmsg"
+	"github.com/l4tr0d3ctism/ResoDNS/internal/app/cmd"
+	"github.com/l4tr0d3ctism/ResoDNS/internal/app/ctx"
+	"github.com/l4tr0d3ctism/ResoDNS/internal/app/errmsg"
 )
 
 var exitHandler func(int) = os.Exit

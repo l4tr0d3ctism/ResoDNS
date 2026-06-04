@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"resodns/internal/app/ctx"
+	"github.com/l4tr0d3ctism/ResoDNS/internal/app/ctx"
 )
 
 type DefaultResolverLoader struct{}

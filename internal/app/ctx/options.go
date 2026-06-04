@@ -5,8 +5,8 @@ import (
 	"os/user"
 	"path/filepath"
 
-	"resodns/internal/app"
-	"resodns/pkg/fileoperation"
+	"github.com/l4tr0d3ctism/ResoDNS/internal/app"
+	"github.com/l4tr0d3ctism/ResoDNS/pkg/fileoperation"
 )
 
 type ResolveMode int

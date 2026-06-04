@@ -6,7 +6,7 @@ import (
 	"strings"
 	"sync"
 
-	"resodns/pkg/threadpool"
+	"github.com/l4tr0d3ctism/ResoDNS/pkg/threadpool"
 )
 
 var defaultResolvers []string = []string{

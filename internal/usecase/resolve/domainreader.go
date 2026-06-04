@@ -7,7 +7,7 @@ import (
 	"io"
 	"strings"
 
-	"resodns/pkg/procreader"
+	"github.com/l4tr0d3ctism/ResoDNS/pkg/procreader"
 )
 
 type DomainReader struct {

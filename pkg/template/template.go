@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"resodns/pkg/fileoperation"
+	"github.com/l4tr0d3ctism/ResoDNS/pkg/fileoperation"
 )
 
 // Segment represents either a literal string or a placeholder to be expanded.

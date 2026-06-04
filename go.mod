@@ -1,4 +1,4 @@
-module resodns
+module github.com/l4tr0d3ctism/ResoDNS
 
 go 1.15
 

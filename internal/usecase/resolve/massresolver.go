@@ -3,9 +3,9 @@ package resolve
 import (
 	"io"
 
-	"resodns/internal/pkg/console"
-	"resodns/pkg/massdns"
-	"resodns/pkg/progressbar"
+	"github.com/l4tr0d3ctism/ResoDNS/internal/pkg/console"
+	"github.com/l4tr0d3ctism/ResoDNS/pkg/massdns"
+	"github.com/l4tr0d3ctism/ResoDNS/pkg/progressbar"
 )
 
 type DefaultMassResolver struct {

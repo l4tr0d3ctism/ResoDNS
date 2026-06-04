@@ -3,10 +3,10 @@ package cmd
 import (
 	"os"
 
-	"resodns/internal/app"
-	"resodns/internal/app/ctx"
-	"resodns/internal/usecase/programbanner"
-	"resodns/internal/usecase/resolve"
+	"github.com/l4tr0d3ctism/ResoDNS/internal/app"
+	"github.com/l4tr0d3ctism/ResoDNS/internal/app/ctx"
+	"github.com/l4tr0d3ctism/ResoDNS/internal/usecase/programbanner"
+	"github.com/l4tr0d3ctism/ResoDNS/internal/usecase/resolve"
 	"github.com/spf13/cobra"
 )
 

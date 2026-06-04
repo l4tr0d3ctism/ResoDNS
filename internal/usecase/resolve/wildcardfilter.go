@@ -5,10 +5,10 @@ import (
 	"io/ioutil"
 	"os"
 
-	"resodns/internal/pkg/console"
-	"resodns/pkg/fileoperation"
-	"resodns/pkg/progressbar"
-	"resodns/pkg/wildcarder"
+	"github.com/l4tr0d3ctism/ResoDNS/internal/pkg/console"
+	"github.com/l4tr0d3ctism/ResoDNS/pkg/fileoperation"
+	"github.com/l4tr0d3ctism/ResoDNS/pkg/progressbar"
+	"github.com/l4tr0d3ctism/ResoDNS/pkg/wildcarder"
 )
 
 type WildcardFilterOptions struct {

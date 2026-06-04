@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"resodns/internal/app/ctx"
-	"resodns/internal/pkg/console"
+	"github.com/l4tr0d3ctism/ResoDNS/internal/app/ctx"
+	"github.com/l4tr0d3ctism/ResoDNS/internal/pkg/console"
 )
 
 type Service struct {

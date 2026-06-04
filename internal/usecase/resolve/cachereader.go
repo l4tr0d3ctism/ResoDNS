@@ -5,7 +5,7 @@ import (
 	"io"
 	"strings"
 
-	"resodns/pkg/wildcarder"
+	"github.com/l4tr0d3ctism/ResoDNS/pkg/wildcarder"
 	"github.com/d3mondev/resolvermt"
 )
 

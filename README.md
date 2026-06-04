@@ -31,7 +31,15 @@ ResoDNS is a high‑performance DNS resolver and subdomain bruteforcer.
 * massdns binary
 * Resolvers file (one IP per line)
 
-### Build
+### Install (recommended)
+
+```bash
+go install github.com/l4tr0d3ctism/ResoDNS@latest
+```
+
+The binary is installed as `resodns` (see `GOBIN` or `$GOPATH/bin`).
+
+### Build from source
 
 ```bash
 git clone https://github.com/l4tr0d3ctism/ResoDNS.git

@@ -1,8 +1,8 @@
 package resolve
 
 import (
-	"resodns/internal/app/ctx"
-	"resodns/pkg/fileoperation"
+	"github.com/l4tr0d3ctism/ResoDNS/internal/app/ctx"
+	"github.com/l4tr0d3ctism/ResoDNS/pkg/fileoperation"
 )
 
 type ResultFileSaver struct {
