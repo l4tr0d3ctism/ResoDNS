@@ -159,10 +159,4 @@ massdns has no official Windows build.
 
 Recommended: use WSL.
 
----
 
-## License
-
-MIT License
-
-Use only on authorized targets.
